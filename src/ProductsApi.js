@@ -16,7 +16,7 @@ const ProductsAPI = [
         title:'CAMERA',
         price:'Price',
         amount:'Rs.1200',
-        fprice:'Rs. 800'
+        fprice:'800'
     },
     {
         id:2,
@@ -24,7 +24,7 @@ const ProductsAPI = [
         title:'WATCH',
         price:'Price',
         amount:'Rs.1500',
-        fprice:'Rs.1000'
+        fprice:'1000'
     },
     {
         id:3,
@@ -32,7 +32,7 @@ const ProductsAPI = [
         title:'SHOES',
         price:'Price',
         amount:'Rs.1100',
-        fprice:'Rs.900'
+        fprice:'900'
     },
     {
         id:4,
@@ -40,7 +40,7 @@ const ProductsAPI = [
         title:'PHONE',
         price:'Price',
         amount:'Rs.1250',
-        fprice:'Rs.900'   
+        fprice:'900'   
     },
     {
         id:5,
@@ -48,7 +48,7 @@ const ProductsAPI = [
         title:'LAPTOP',
         price:'Price',
         amount:'Rs.1200',
-        fprice:'Rs.1000'
+        fprice:'1000'
 
     },
     {
@@ -57,7 +57,7 @@ const ProductsAPI = [
         title:'EARPHONE',
         price:'Price',
         amount:'Rs.1200',
-        fprice:'Rs.900'
+        fprice:'900'
 
     },
     {
@@ -66,7 +66,7 @@ const ProductsAPI = [
         title:'TABLET',
         price:'Price',
         amount:'Rs.1200',
-        fprice:'Rs. 900'
+        fprice:'900'
 
     },
     {
@@ -75,7 +75,7 @@ const ProductsAPI = [
         title:'BOTTLE',
         price:'Price',
         amount:'Rs.1200',
-        fprice:'Rs. 900'
+        fprice:'900'
 
     },
     {
@@ -84,7 +84,7 @@ const ProductsAPI = [
         title:'GLASSES',
         price:'Price',
         amount:'Rs.1200',
-        fprice:'Rs. 800'
+        fprice:'800'
 
     }
 ]

@@ -8,6 +8,7 @@ function CartItem(props) {
 
 
     return (
+        <>
         <div className='cartItem'>
             <img src={image}/>
             <div className='description'>
@@ -20,6 +21,7 @@ function CartItem(props) {
                 </div>
             </div>
         </div>
+        </>
     );
 }
 

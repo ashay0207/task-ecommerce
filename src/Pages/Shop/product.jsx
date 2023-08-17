@@ -10,7 +10,7 @@ function Product(props) {
             <img src={image} />
             <div className='description'>
                 <h1 className='title'>{title}</h1>
-                <p>{price}: <span className='text-decoration-line-through'>{amount}</span>-{fprice}</p>
+                <p>{price}: <span className='text-decoration-line-through'>{amount}</span>-Rs.{fprice}</p>
                 <button className='addToCartBttn' onClick={()=>addToCart(id)}>
                      ADD TO CART {cartItemAmount > 0 && <> ({cartItemAmount })</>
                 }</button>

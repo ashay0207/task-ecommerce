@@ -1,4 +1,5 @@
 import React , {useContext}from 'react';
+import { Link } from 'react-router-dom';
 import ProductsAPI from '../../ProductsApi';
 import { ShopContext } from '../../Context/shop-context';
 import CartItem from './cart-item';
@@ -23,7 +24,7 @@ function Cart() {
 
             <div className='checkout'>
                 <p>Subtotal: Rs. {totalAmount}</p>
-                <button> Continue Shopping</button>
+                <Link to={'/cart'}><button> Continue Shopping</button></Link>
             </div>
         </div>
     );
