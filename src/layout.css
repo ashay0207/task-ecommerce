@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    background: linear-gradient(to right,rgb(221, 221, 42),rgb(248, 178, 47));
+}
+.navbar
+{
+    background: black;
+    color: white;
+    height: 80px;
+}
+.links a
+{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+.links a:hover
+{
+    color: yellow;
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.logo
+{
+    font-size: 32px;
+}
+.cart button
+{
+    background: black;
+    color: white;
+}
+.popular{
+    /* box-shadow: 2px 3px 4px grey;border-radius: 20px;overflow: hidden!important; */
+    padding: 15px!important;
+    /* margin: 1px; */
+}
+.one
+{
+    height: 250px;
+}
+.button
+{
+    background: none;
+    box-shadow: 2px 6px 5px;
+}
